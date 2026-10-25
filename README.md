@@ -1,5 +1,5 @@
 # TIDAL-KEYS
-<img src="https://github.com/ElGOATFilipino/TIDAL-KEYS/blob/main/Assets/Tidal_keys_updated.gif" width="50%">
+<img src="https://github.com/ElGOATFilipino/TIDAL-KEYS/blob/main/Assets/Tidal_keys_updated.gif" width="100%">
 
 A 48 button split keyboard with a design based on the geometry dash level "Tidal wave", cad files made using fusion 360 (Only the cases, top, bottom, and battery lid are meant to be 3d printed)
 
