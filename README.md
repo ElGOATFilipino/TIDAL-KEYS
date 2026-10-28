@@ -6,6 +6,13 @@
 
 A 48 button split keyboard with a design based on the geometry dash level "Tidal wave", cad files made using fusion 360 (Only the cases, top, bottom, and battery lid are meant to be 3d printed)
 
+## Features per side:
+- 24 white DSA keys
+- 10 neopixel SK6803MINI-E LEDs (Light blue underglow)
+- BLE
+- 1000mAh 1S LiPo battery per side
+
+
 
 PCB: [![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/ElGOATFilipino/TIDAL-KEYS/blob/main/PCB/Tidal-keys.kicad_pcb)
 ## Screenshots
