@@ -17,7 +17,9 @@ I made this because I wanted split keyboard that felt unique to me! And since I 
 - Hotswap keys
 - 1000mAh 1S LiPo battery per side
 - Battery sensing
-- 
+
+![text](https://github.com/ElGOATFilipino/TIDAL-KEYS/blob/main/Assets/Screenshot%202026-10-28%20192307.png)
+
 ## CAD Model: 
 
 Both cases (left and right) are held together using 10 M2 screws and 10 heatset inserts per side. On both halves, 6 screws are used for the pcb and 4 of them for the top part of the case.
@@ -27,23 +29,28 @@ The case is made of only three separate pieces: the bottom, the top cover and th
 - Top lid: The top part features diffrent types decorations from the level "Tidal wave", such as starfish, bubbles and its iconic title screen arrows.
 - Battery lid: The battery lid is screwed to the case using 2 self-tapping M2 screws. The PCB sits over the bottom case using a 3x5x3mm spacer at the bottom and a 2x5x3mm spacer at the top per screw; sandwiching the PCB between them to prevent vertical wobble.
 
-![text](https://github.com/ElGOATFilipino/TIDAL-KEYS/blob/main/Assets/Screenshot%202026-10-16%20132650.png)
 
 All case components made using Fusion 360.
 
 ## PCB:
 
-All of it was designed in KiCAD!
+The schematic and the PCB were designed 
 
-Schematic:
+**Schematic:**
 
-
-
-PCB: 
+![text](https://github.com/ElGOATFilipino/TIDAL-KEYS/blob/main/Assets/Screenshot%202026-10-28%20192107.png)
 
 
-Wiring diagram:
+**PCB:** 
+Backside of the PCB, since all components that belong to it are meant to be soldered on the back.
+
+![text](https://github.com/ElGOATFilipino/TIDAL-KEYS/blob/main/Assets/Screenshot%202026-10-28%20202003.png)
+
+
+**Wiring diagram (Battery connection):**
 This part was made using Canva! 
+
+![text](https://github.com/ElGOATFilipino/TIDAL-KEYS/blob/main/Assets/Screenshot%202026-10-28%20200348.png)
 
 
 ## BOM:
@@ -70,3 +77,26 @@ To construct the full split keyboard the following components are required:
 - 20 M2 OD3.5 heatset inserts
 - 12 3x5x3mm rubber spacers (3mm inner diameter, 5mm outer diameter, 3mm thickness)
 - 12 3x5x2mm rubber spacers (3mm inner diameter, 5mm outer diameter, 2mm thickness)
+
+## How to enable BLE support
+
+**Step 1**: Turn on both halves. This is done automatically when connecitng the batteries.
+
+**Step 2:**: Press and hold `LSHIFT` + `G`. This activates a momentary layer that enables diffrent BLE commands.
+The following keys assume these functions when the momentary layer is activated:
+
+`1` → `BT_SEL 1` (Selects bluetooth layer 1)
+`2` → `BT_SEL 2` (Selects bluetooth layer 2)
+`3` → `BT_SEL 3` (Selects bluetooth layer 3)
+`4` → `BT_CLR` (Clears and purges all bluetooth connections)
+
+**Step 3**: Select any of the bluetooth layer 1-3, the left keyboard will automatically connect with the right half, and broadcast a bluetooth pairing request to a host device. The user is free to release all keys after channel selection.
+
+**Step 4**: In the host device's bluetooth tab, pair with "tidal_keys" and estblish a connection with it.
+
+**Step 5:** TIDAL-KEYS is all set and free to use!
+
+## Aditional notes: 
+
+- TIDAL-KEYS does NOT have wired support! It is meant to be 100% BLE.
+- Removing the battery to charge it is not necesary, since both keyboard halves contain a USB-C port just for that.
