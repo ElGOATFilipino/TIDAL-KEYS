@@ -85,10 +85,10 @@ To construct the full split keyboard the following components are required:
 **Step 2:**: Press and hold `LSHIFT` + `G`. This activates a momentary layer that enables diffrent BLE commands.
 The following keys assume these functions when the momentary layer is activated:
 
-`1` → `BT_SEL 1` (Selects bluetooth layer 1)
-`2` → `BT_SEL 2` (Selects bluetooth layer 2)
-`3` → `BT_SEL 3` (Selects bluetooth layer 3)
-`4` → `BT_CLR` (Clears and purges all bluetooth connections)
+- `1` → `BT_SEL 1` (Selects bluetooth layer 1)
+- `2` → `BT_SEL 2` (Selects bluetooth layer 2)
+- `3` → `BT_SEL 3` (Selects bluetooth layer 3)
+- `4` → `BT_CLR` (Clears and purges all bluetooth connections)
 
 **Step 3**: Select any of the bluetooth layer 1-3, the left keyboard will automatically connect with the right half, and broadcast a bluetooth pairing request to a host device. The user is free to release all keys after channel selection.
 
