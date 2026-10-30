@@ -27,7 +27,7 @@ The case is made of only three separate pieces: the bottom, the top cover and th
 **Features of each component:**
 - Bottom case: The bottom case has a hole, meant for the battery. This sectionalso has a "tunnel" where the battery cables can easily connect to the PCB battery pads.
 - Top lid: The top part features diffrent types decorations from the level "Tidal wave", such as starfish, bubbles and its iconic title screen arrows.
-- Battery lid: The battery lid is screwed to the case using 2 self-tapping M2 screws. The PCB sits over the bottom case using a 3x5x3mm spacer at the bottom and a 2x5x3mm spacer at the top per screw; sandwiching the PCB between them to prevent vertical wobble.
+- Battery lid: The battery lid is screwed to the case using 2 self-tapping M2 screws. The PCB sits over the bottom case using a 3x5x3mm spacer at the bottom and a 3x5x2mm spacer at the top per screw; sandwiching the PCB between them to prevent vertical wobble.
 
 ![text](https://github.com/ElGOATFilipino/TIDAL-KEYS/blob/main/Assets/Screenshot%202026-10-30%20172440.png)
 
