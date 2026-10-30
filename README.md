@@ -62,7 +62,7 @@ To construct the full split keyboard the following components are required:
 - 48 Cherry MX2A switches (prefferably red)
 - 48 1N5819 Diodes
 - 20 0805 package 100nF capacitors
-- 2 0805 300-ohm resistors
+- 2 0805 package 300-ohm resistors
 - 48 Kailh hotswap sockets
 - 2 1000mAh 1S LiP Batteries
 - 38 1u DSA keycaps (prefferably white)
