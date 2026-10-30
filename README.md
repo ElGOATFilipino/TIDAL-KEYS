@@ -57,7 +57,7 @@ This part was made using Canva!
 
 ## BOM:
 To construct the full split keyboard the following components are required:
-- 1 PCB 
+- 1 PCB (file includes both halves)
 - All six case components (Bottom, top, battery lid for each half)
 - 2 Seeed studio XIAO nrf52840 modules
 - 20 SK6803MINI-E Leds
