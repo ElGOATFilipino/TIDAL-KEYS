@@ -25,8 +25,8 @@ I made this because I wanted split keyboard that felt unique to me! And since I 
 Both cases (left and right) are held together using 10 M2 screws and 10 heatset inserts per side. On both halves, 6 screws are used for the pcb and 4 of them for the top part of the case.
 The case is made of only three separate pieces: the bottom, the top cover and the battery lid.
 **Features of each component:**
-- Bottom case: The bottom case has a hole, meant for the battery. This sectionalso has a "tunnel" where the battery cables can easily connect to the PCB battery pads.
-- Top lid: The top part features diffrent types decorations from the level "Tidal wave", such as starfish, bubbles and its iconic title screen arrows.
+- Bottom case: The bottom case has a hole, meant for the battery. This section also has a "tunnel" where the battery cables can easily connect to the PCB battery pads.
+- Top lid: The top part features different types decorations from the level "Tidal wave", such as starfish, bubbles and its iconic title screen arrows.
 - Battery lid: The battery lid is screwed to the case using 2 self-tapping M2 screws. The PCB sits over the bottom case using a 3x5x3mm spacer at the bottom and a 3x5x2mm spacer at the top per screw; sandwiching the PCB between them to prevent vertical wobble.
 
 ![text](https://github.com/ElGOATFilipino/TIDAL-KEYS/blob/main/Assets/Screenshot%202026-10-30%20172440.png)
@@ -82,9 +82,9 @@ To construct the full split keyboard the following components are required:
 
 ## How to enable BLE support
 
-**Step 1**: Turn on both halves. This is done automatically when connecitng the batteries.
+**Step 1**: Turn on both halves. This is done automatically when connecting the batteries.
 
-**Step 2:**: Press and hold `LSHIFT` + `G`. This activates a momentary layer that enables diffrent BLE commands.
+**Step 2:** Press and hold `LSHIFT` + `G`. This activates a momentary layer that enables different BLE commands.
 The following keys assume these functions when the momentary layer is activated:
 
 - `1` → `BT_SEL 1` (Selects bluetooth layer 1)
@@ -94,11 +94,11 @@ The following keys assume these functions when the momentary layer is activated:
 
 **Step 3**: Select any of the bluetooth layer 1-3, the left keyboard will automatically connect with the right half, and broadcast a bluetooth pairing request to a host device. The user is free to release all keys after channel selection.
 
-**Step 4**: In the host device's bluetooth tab, pair with "tidal_keys" and estblish a connection with it.
+**Step 4**: In the host device's bluetooth tab, pair with "tidal_keys" and establish a connection with it.
 
 **Step 5:** TIDAL-KEYS is all set and free to use!
 
-## Aditional notes: 
+## Additional notes: 
 
 - TIDAL-KEYS does NOT have wired support! It is meant to be 100% BLE.
 - Removing the battery to charge it is not necesary, since both keyboard halves contain a USB-C port just for that.
