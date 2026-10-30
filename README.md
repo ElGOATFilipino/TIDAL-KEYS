@@ -35,7 +35,7 @@ All case components made using Fusion 360.
 
 ## PCB:
 
-The schematic and the PCB were designed 
+Both the schematic and the PCB were designed in Kicad!
 
 **Schematic:**
 
@@ -44,6 +44,7 @@ The schematic and the PCB were designed
 
 **PCB:** 
 Backside of the PCB, since all components that belong to it are meant to be soldered on the back.
+I used the regular cherry mx footprints, but its meant to use MX2A. It also has a ground plane! That way there is less wires to connect (plus it looks cleaner)
 
 ![text](https://github.com/ElGOATFilipino/TIDAL-KEYS/blob/main/Assets/Screenshot%202026-10-28%20202003.png)
 
