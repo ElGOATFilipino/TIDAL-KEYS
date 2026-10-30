@@ -1,6 +1,6 @@
 # TIDAL-KEYS
 
-[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/ElGOATFilipino/TIDAL-KEYS/blob/main/PCB/Tidal-keys.kicad_pcb)
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://github.com/ElGOATFilipino/TIDAL-KEYS/blob/main/PCB/Tidal-keys.kicad_pcb)
 
 <p align="center">
   <img src="https://github.com/ElGOATFilipino/TIDAL-KEYS/blob/main/Assets/Tidal_keys_updated.gif" width="100%">
