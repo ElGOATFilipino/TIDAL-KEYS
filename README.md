@@ -24,6 +24,7 @@ I made this because I wanted split keyboard that felt unique to me! And since I 
 
 Both cases (left and right) are held together using 10 M2 screws and 10 heatset inserts per side. On both halves, 6 screws are used for the pcb and 4 of them for the top part of the case.
 The case is made of only three separate pieces: the bottom, the top cover and the battery lid.
+
 **Features of each component:**
 - Bottom case: The bottom case has a hole, meant for the battery. This section also has a "tunnel" where the battery cables can easily connect to the PCB battery pads.
 - Top lid: The top part features different types decorations from the level "Tidal wave", such as starfish, bubbles and its iconic title screen arrows.
