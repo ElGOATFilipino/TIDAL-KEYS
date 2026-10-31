@@ -45,7 +45,7 @@ Both the schematic and the PCB were designed in Kicad!
 
 **PCB:** 
 Backside of the PCB, since all components that belong to it are meant to be soldered on the back.
-I used the regular cherry mx footprints, but its meant to use MX2A. It also has a ground plane! That way there is less wires to connect (plus it looks cleaner)
+I used the regular cherry mx footprints, but it's meant to use MX2A. It also has a ground plane! That way there are less wires to connect (plus it looks cleaner)
 
 ![text](https://github.com/ElGOATFilipino/TIDAL-KEYS/blob/main/Assets/Screenshot%202026-10-28%20202003.png)
 
@@ -57,7 +57,7 @@ This part was made using Canva!
 
 
 ## BOM:
-To construct the full split keyboard the following components are required:
+To construct the full split keyboard, the following components are required:
 - 1 PCB (file includes both halves)
 - All six case components (Bottom, top, battery lid for each half)
 - 2 Seeed studio XIAO nrf52840 modules
