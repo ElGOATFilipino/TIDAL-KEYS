@@ -12,7 +12,7 @@ I made this because I wanted split keyboard that felt unique to me! And since I 
 
 ## Features per side:
 - 24 white DSA keys
-- 10 neopixel SK6803MINI-E LEDs (Light blue underglow)
+- 10 neopixel SK6803MINI-E LEDs (Light blue glow under the keys)
 - BLE
 - Hotswap keys
 - 1000mAh 1S LiPo battery per side
