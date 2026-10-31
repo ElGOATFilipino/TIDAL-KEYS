@@ -8,7 +8,7 @@
 
 A 48 button BLE split keyboard with a design based on the geometry dash level "Tidal wave", features 20 SK6803MINI-E Leds total, and uses ZMK firmware. It is meant to be used as a regular keyboard, and the distance between each half is up to the user.
 
-I made this because I wanted split keyboard that felt unique to me! And since I love the game "geometry dash", I decided to base the design around one of its most popular community levels: Tidal wave. 
+I made this because I wanted a split keyboard that felt unique to me! And since I love the game "geometry dash", I decided to base the design around one of its most popular community levels: Tidal wave. 
 
 ## Features per side:
 - 24 white DSA keys
