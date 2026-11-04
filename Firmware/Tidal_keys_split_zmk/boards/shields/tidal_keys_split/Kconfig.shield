@@ -1,0 +1,5 @@
+config SHIELD_TIDAL_KEYS_SPLIT_LEFT
+    def_bool $(shields_list_contains,tidal_keys_split_left)
+
+config SHIELD_TIDAL_KEYS_SPLIT_RIGHT
+    def_bool $(shields_list_contains,tidal_keys_split_right)
