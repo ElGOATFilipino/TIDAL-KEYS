@@ -103,3 +103,4 @@ The following keys assume these functions when the momentary layer is activated:
 
 - TIDAL-KEYS does NOT have wired support! It is meant to be 100% BLE.
 - Removing the battery to charge it is not necesary, since both keyboard halves contain a USB-C port just for that.
+- In the `Firmware` folder, the files in `Compiled` are the .uf2 files meant to be flashed onto both nrf52840 modules (file name indicates which half), whereas `Tidal_keys_split_zmk` corresponds to the raw, uncompiled zmk firmware.
